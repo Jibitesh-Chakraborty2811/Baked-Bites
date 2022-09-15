@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4de41e97.css",
+    "main.js": "/static/js/main.c525db94.js",
+    "static/js/787.830da21d.chunk.js": "/static/js/787.830da21d.chunk.js",
+    "static/media/Backgroundimg.jpg": "/static/media/Backgroundimg.f057ad049a5f47d582cc.jpg",
+    "static/media/pic1.jpg": "/static/media/pic1.45fdfa0fe140fe600ae1.jpg",
+    "static/media/pic2.jpg": "/static/media/pic2.707bb96fd551497f0b05.jpg",
+    "static/media/pic6.jpg": "/static/media/pic6.1cb20232be2a9158b2be.jpg",
+    "static/media/pic13.jpg": "/static/media/pic13.774d489e3273906206d5.jpg",
+    "static/media/2ndbackground.jpg": "/static/media/2ndbackground.c7877fd3c01a746ac095.jpg",
+    "static/media/pic23.jpg": "/static/media/pic23.35574d340e82c7829134.jpg",
+    "static/media/pic24.jpg": "/static/media/pic24.6c31e23c45b24f2c1ecf.jpg",
+    "static/media/pic21.jpg": "/static/media/pic21.33030c1982cf22b6db05.jpg",
+    "static/media/pic10.jpg": "/static/media/pic10.5ede246acbd7e5fd2690.jpg",
+    "static/media/pic9.jpg": "/static/media/pic9.7df3fa8f7ca015e61771.jpg",
+    "static/media/pic5.jpg": "/static/media/pic5.230786cd123267da78f6.jpg",
+    "static/media/pic7.jpg": "/static/media/pic7.58047e443abc35d7b8dd.jpg",
+    "static/media/pic11.jpg": "/static/media/pic11.5aee3ec91351edc63c15.jpg",
+    "static/media/pic8.jpg": "/static/media/pic8.c5efc1c6ac30c120bd79.jpg",
+    "static/media/pic12.jpg": "/static/media/pic12.b07c29b07308f1b5486b.jpg",
+    "static/media/pic14.jpg": "/static/media/pic14.e57c1e41f9aaf3aeb617.jpg",
+    "static/media/pic3.jpg": "/static/media/pic3.0a3b4e92efadb9416878.jpg",
+    "static/media/pic15.jpg": "/static/media/pic15.f06bd312d2def60bdc82.jpg",
+    "static/media/pic17.jpg": "/static/media/pic17.519a3009baffe33307fb.jpg",
+    "static/media/pic18.jpg": "/static/media/pic18.43631e34950e52a6fb33.jpg",
+    "static/media/pic22.jpg": "/static/media/pic22.34dc4f510894391591b1.jpg",
+    "static/media/pic4.jpg": "/static/media/pic4.c99a064873f191b0bbe8.jpg",
+    "static/media/pic20.jpg": "/static/media/pic20.646fb9299bc53d7e05b6.jpg",
+    "index.html": "/index.html",
+    "main.4de41e97.css.map": "/static/css/main.4de41e97.css.map",
+    "main.c525db94.js.map": "/static/js/main.c525db94.js.map",
+    "787.830da21d.chunk.js.map": "/static/js/787.830da21d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de41e97.css",
+    "static/js/main.c525db94.js"
+  ]
+}
